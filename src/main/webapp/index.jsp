@@ -1,5 +1,3 @@
-<h1> Hi , this is sreekar's app....! </h1>
-
 <div>
     <label for="username">Username:</label>
     <input type="text" id="username" name="username">
